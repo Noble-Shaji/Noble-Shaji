@@ -12,10 +12,37 @@ Currently building practical experience in cybersecurity, cloud workflows, and c
 - Networking & Infrastructure
 
 ## Currently Learning
-- GitHub Workflow
+
+- Git & GitHub Workflow
+- Pull Requests & Code Reviews
 - Visual Studio Code
-- Cloud Integration
-- Version Control & Collaboration
+- NIST Cybersecurity Framework
+- DevSecOps Fundamentals
+- Version Control & Team Collaboration
+
+- ## Recent Project Contributions
+
+### The Inclusion Exchange (June 2026)
+
+**Role:** Contributor / Trainee
+
+**Task:** Refactor website into a modular file structure.
+
+**Activities Completed:**
+- Reorganised website files into a cleaner structure.
+- Moved CSS from index.html into a dedicated stylesheet.
+- Organised image assets into an Images folder.
+- Updated HTML file paths.
+- Added project documentation (README.md).
+- Worked using GitHub branches, commits, and pull requests.
+- Collaborated through a ticket-based workflow.
+
+**Tools Used:**
+- GitHub
+- GitHub Desktop
+- Visual Studio Code
+- HTML
+- CSS
 
 ## Certifications
 - AWS Cloud Foundation
