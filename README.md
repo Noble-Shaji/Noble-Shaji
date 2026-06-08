@@ -20,7 +20,7 @@ Currently building practical experience in cybersecurity, cloud workflows, and c
 - DevSecOps Fundamentals
 - Version Control & Team Collaboration
 
-- ## Recent Project Contributions
+## Recent Project Contributions
 
 ### The Inclusion Exchange (June 2026)
 
